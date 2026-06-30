@@ -1,0 +1,516 @@
+canonical_identifier: bkk:krp/KR4d0530/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0530_WYG_000-1a01}
+  - {type: variant, offset: 0, length: 29, content: 欽定四庫全書集部五蜕菴集别集類四元提要臣等謹案蜕菴集五卷元, SBCK: 潞􅀦公}
+  - {type: page-break, offset: 0, content: '', id: KR4d0530_SBCK_004-26b}
+  - {type: page-break, offset: 0, content: '', id: KR4d0530_SBCK_000-1a}
+  - {type: indent, offset: 6, content: 　　　　　, id: KR4d0530_krp_000-bkkind1}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0530_WYG_000-1a02}
+  - {type: indent, offset: 0, content: 　, id: KR4d0530_krp_000-bkkind1}
+  - {type: substitution, offset: 0, original: 蜕, replacement: 蛻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3170}}
+  - {type: indent, offset: 3, content: 　　　　　　　, id: KR4d0530_krp_000-bkkind2}
+  - {type: punctuation, offset: 7, content: (, id: KR4d0530_krp_000-bkkpn1}
+  - {type: punctuation, offset: 8, content: /, id: KR4d0530_krp_000-bkkpn2}
+  - {type: punctuation, offset: 8, content: ), id: KR4d0530_krp_000-bkkpn3}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 8, content: '', id: KR4d0530_WYG_000-1a03}
+  - {type: indent, offset: 8, content: 　　, id: KR4d0530_krp_000-bkkind3}
+  - {type: 'kr:newline', offset: 10, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 10, content: '', id: KR4d0530_WYG_000-1a04}
+  - {type: indent, offset: 10, content: 　　　　, id: KR4d0530_krp_000-bkkind4}
+  - {type: punctuation, offset: 10, content: (, id: KR4d0530_krp_000-bkkpn4}
+  - {type: punctuation, offset: 11, content: /, id: KR4d0530_krp_000-bkkpn5}
+  - {type: punctuation, offset: 11, content: ), id: KR4d0530_krp_000-bkkpn6}
+  - {type: substitution, offset: 14, original: 蜕, replacement: 蛻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3170}}
+  - {type: variant, offset: 21, length: 418, content: 翥撰翥字仲舉晉寧人至元初用隠逸薦召為國子助教分教上都尋退居淮東㑹修宋遼金三史起翰林國史院編修官累遷翰林學士承㫖致仕加河南行省平章政事給俸終身事蹟具元史本傳案金明昌承安間亦有張翥字曰仲陽劉祁歸潛志記其矮窻小户寒不到一爐香火四圍書西風了却黄花事不管安仁兩鬢秋諸句稱其浮艷諸書援引或誤為一人非也翥嘗從學於李存傳陸九淵之説詩法則受於仇逺得其音律之奥其詩清圓稳貼格調頗髙近體長短句極為當時所推然其古體亦伉爽可誦詞多諷諭往往得元白張王之遺亦非苟作王士禎居易錄曰蜕菴元末大家古今詩皆有法度無論子昻伯庸輩即范徳機揭曼碩未知伯仲何如其論當矣史稱翥遺稿不傅傳者有律詩樂府僅三卷王士禎則稱蜕菴集四卷明洪武三年錫山郎成抄本此本乃朱彛尊所蔵明初釋大杼手抄本前後有來復宗泐二人序跋蓋大杼與翥為方外交元末翥沒無嗣大杼取其遺稿歸江南别為選次而録存之考元音乾坤清氣集玉山雅集諸書所錄翥詩尚有出此集之外者則亦非全本也乾隆四十六年十總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀, SBCK: ''}
+  - {type: 'kr:newline', offset: 27, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 27, content: '', id: KR4d0530_WYG_000-1a05}
+  - {type: indent, offset: 27, content: 　　　　, id: KR4d0530_krp_000-bkkind5}
+  - {type: substitution, offset: 34, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4332}}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 44, content: '', id: KR4d0530_WYG_000-1a06}
+  - {type: indent, offset: 44, content: 　　　　, id: KR4d0530_krp_000-bkkind6}
+  - {type: 'kr:newline', offset: 61, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 61, content: '', id: KR4d0530_WYG_000-1a07}
+  - {type: indent, offset: 61, content: 　　　　, id: KR4d0530_krp_000-bkkind7}
+  - {type: substitution, offset: 68, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
+  - {type: 'kr:newline', offset: 78, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 78, content: '', id: KR4d0530_WYG_000-1a08}
+  - {type: indent, offset: 78, content: 　　　　, id: KR4d0530_krp_000-bkkind8}
+  - {type: 'kr:newline', offset: 95, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl8}
+  - {type: page-break, offset: 95, content: '', id: KR4d0530_WYG_000-1b, image: WYG1215/WYG1215-0001b.png}
+  - {type: 'kr:newline', offset: 95, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 95, content: '', id: KR4d0530_WYG_000-1b01}
+  - {type: indent, offset: 95, content: 　　　　, id: KR4d0530_krp_000-bkkind9}
+  - {type: 'kr:newline', offset: 112, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 112, content: '', id: KR4d0530_WYG_000-1b02}
+  - {type: indent, offset: 112, content: 　　　　, id: KR4d0530_krp_000-bkkind10}
+  - {type: substitution, offset: 121, original: 窻, replacement: 窗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1293}}
+  - {type: 'kr:newline', offset: 129, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl11}
+  - {type: line-break, offset: 129, content: '', id: KR4d0530_WYG_000-1b03}
+  - {type: indent, offset: 129, content: 　　　　, id: KR4d0530_krp_000-bkkind11}
+  - {type: substitution, offset: 138, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: 'kr:newline', offset: 146, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 146, content: '', id: KR4d0530_WYG_000-1b04}
+  - {type: indent, offset: 146, content: 　　　　, id: KR4d0530_krp_000-bkkind12}
+  - {type: 'kr:newline', offset: 163, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 163, content: '', id: KR4d0530_WYG_000-1b05}
+  - {type: indent, offset: 163, content: 　　　　, id: KR4d0530_krp_000-bkkind13}
+  - {type: substitution, offset: 177, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
+  - {type: 'kr:newline', offset: 180, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl14}
+  - {type: line-break, offset: 180, content: '', id: KR4d0530_WYG_000-1b06}
+  - {type: indent, offset: 180, content: 　　　　, id: KR4d0530_krp_000-bkkind14}
+  - {type: substitution, offset: 190, original: 奥, replacement: 奧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4338}}
+  - {type: substitution, offset: 195, original: 稳, replacement: 穩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1443}}
+  - {type: 'kr:newline', offset: 197, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 197, content: '', id: KR4d0530_WYG_000-1b07}
+  - {type: indent, offset: 197, content: 　　　　, id: KR4d0530_krp_000-bkkind15}
+  - {type: 'kr:newline', offset: 214, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 214, content: '', id: KR4d0530_WYG_000-1b08}
+  - {type: indent, offset: 214, content: 　　　　, id: KR4d0530_krp_000-bkkind16}
+  - {type: 'kr:newline', offset: 231, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl17}
+  - {type: page-break, offset: 231, content: '', id: KR4d0530_WYG_000-2a, image: WYG1215/WYG1215-0002a.png}
+  - {type: 'kr:newline', offset: 231, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl18}
+  - {type: line-break, offset: 231, content: '', id: KR4d0530_WYG_000-2a01}
+  - {type: indent, offset: 231, content: 　　　　, id: KR4d0530_krp_000-bkkind17}
+  - {type: substitution, offset: 243, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: substitution, offset: 245, original: 蜕, replacement: 蛻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3170}}
+  - {type: 'kr:newline', offset: 248, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl19}
+  - {type: line-break, offset: 248, content: '', id: KR4d0530_WYG_000-2a02}
+  - {type: indent, offset: 248, content: 　　　　, id: KR4d0530_krp_000-bkkind18}
+  - {type: 'kr:newline', offset: 265, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl20}
+  - {type: line-break, offset: 265, content: '', id: KR4d0530_WYG_000-2a03}
+  - {type: indent, offset: 265, content: 　　　　, id: KR4d0530_krp_000-bkkind19}
+  - {type: substitution, offset: 267, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
+  - {type: 'kr:newline', offset: 282, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl21}
+  - {type: line-break, offset: 282, content: '', id: KR4d0530_WYG_000-2a04}
+  - {type: indent, offset: 282, content: 　　　　, id: KR4d0530_krp_000-bkkind20}
+  - {type: 'kr:newline', offset: 299, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl22}
+  - {type: line-break, offset: 299, content: '', id: KR4d0530_WYG_000-2a05}
+  - {type: indent, offset: 299, content: 　　　　, id: KR4d0530_krp_000-bkkind21}
+  - {type: substitution, offset: 304, original: 蜕, replacement: 蛻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3170}}
+  - {type: 'kr:newline', offset: 316, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl23}
+  - {type: line-break, offset: 316, content: '', id: KR4d0530_WYG_000-2a06}
+  - {type: indent, offset: 316, content: 　　　　, id: KR4d0530_krp_000-bkkind22}
+  - {type: substitution, offset: 327, original: 蔵, replacement: 藏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4423}}
+  - {type: 'kr:newline', offset: 333, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl24}
+  - {type: line-break, offset: 333, content: '', id: KR4d0530_WYG_000-2a07}
+  - {type: indent, offset: 333, content: 　　　　, id: KR4d0530_krp_000-bkkind23}
+  - {type: 'kr:newline', offset: 350, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl25}
+  - {type: line-break, offset: 350, content: '', id: KR4d0530_WYG_000-2a08}
+  - {type: indent, offset: 350, content: 　　　　, id: KR4d0530_krp_000-bkkind24}
+  - {type: 'kr:newline', offset: 367, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl26}
+  - {type: page-break, offset: 367, content: '', id: KR4d0530_WYG_000-2b, image: WYG1215/WYG1215-0002b.png}
+  - {type: 'kr:newline', offset: 367, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl27}
+  - {type: line-break, offset: 367, content: '', id: KR4d0530_WYG_000-2b01}
+  - {type: indent, offset: 367, content: 　　　　, id: KR4d0530_krp_000-bkkind25}
+  - {type: 'kr:newline', offset: 384, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl28}
+  - {type: line-break, offset: 384, content: '', id: KR4d0530_WYG_000-2b02}
+  - {type: indent, offset: 384, content: 　　　　, id: KR4d0530_krp_000-bkkind26}
+  - {type: substitution, offset: 394, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: 'kr:newline', offset: 401, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl29}
+  - {type: line-break, offset: 401, content: '', id: KR4d0530_WYG_000-2b03}
+  - {type: indent, offset: 401, content: 　　　　, id: KR4d0530_krp_000-bkkind27}
+  - {type: 'kr:newline', offset: 418, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl30}
+  - {type: line-break, offset: 418, content: '', id: KR4d0530_WYG_000-2b04}
+  - {type: indent, offset: 418, content: 　, id: KR4d0530_krp_000-bkkind28}
+  - {type: 'kr:newline', offset: 418, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl31}
+  - {type: line-break, offset: 418, content: '', id: KR4d0530_WYG_000-2b05}
+  - {type: indent, offset: 418, content: 　　　, id: KR4d0530_krp_000-bkkind29}
+  - {type: indent, offset: 420, content: 　, id: KR4d0530_krp_000-bkkind30}
+  - {type: indent, offset: 421, content: 　, id: KR4d0530_krp_000-bkkind31}
+  - {type: punctuation, offset: 421, content: (, id: KR4d0530_krp_000-bkkpn7}
+  - {type: punctuation, offset: 423, content: /, id: KR4d0530_krp_000-bkkpn8}
+  - {type: punctuation, offset: 423, content: ), id: KR4d0530_krp_000-bkkpn9}
+  - {type: indent, offset: 423, content: 　, id: KR4d0530_krp_000-bkkind32}
+  - {type: punctuation, offset: 424, content: (, id: KR4d0530_krp_000-bkkpn10}
+  - {type: punctuation, offset: 425, content: /, id: KR4d0530_krp_000-bkkpn11}
+  - {type: punctuation, offset: 425, content: ), id: KR4d0530_krp_000-bkkpn12}
+  - {type: indent, offset: 426, content: 　, id: KR4d0530_krp_000-bkkind33}
+  - {type: punctuation, offset: 428, content: (, id: KR4d0530_krp_000-bkkpn13}
+  - {type: punctuation, offset: 429, content: /, id: KR4d0530_krp_000-bkkpn14}
+  - {type: punctuation, offset: 429, content: ), id: KR4d0530_krp_000-bkkpn15}
+  - {type: 'kr:newline', offset: 432, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl32}
+  - {type: line-break, offset: 432, content: '', id: KR4d0530_WYG_000-2b06}
+  - {type: indent, offset: 432, content: 　　　　　　　, id: KR4d0530_krp_000-bkkind34}
+  - {type: indent, offset: 433, content: 　, id: KR4d0530_krp_000-bkkind35}
+  - {type: indent, offset: 434, content: 　, id: KR4d0530_krp_000-bkkind36}
+  - {type: indent, offset: 435, content: 　, id: KR4d0530_krp_000-bkkind37}
+  - {type: punctuation, offset: 435, content: (, id: KR4d0530_krp_000-bkkpn16}
+  - {type: punctuation, offset: 436, content: /, id: KR4d0530_krp_000-bkkpn17}
+  - {type: punctuation, offset: 436, content: ), id: KR4d0530_krp_000-bkkpn18}
+  - {type: indent, offset: 436, content: 　, id: KR4d0530_krp_000-bkkind38}
+  - {type: indent, offset: 437, content: 　, id: KR4d0530_krp_000-bkkind39}
+  - {type: indent, offset: 438, content: 　, id: KR4d0530_krp_000-bkkind40}
+  - {type: 'kr:newline', offset: 439, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl33}
+  - {type: 'kr:org-directive', offset: 439, content: '#+PROPERTY: JUAN 原序', id: KR4d0530_krp_000-bkkkrorgd1}
+  - {type: 'kr:newline', offset: 439, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl34}
+  - {type: 'kr:newline', offset: 439, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl35}
+  - {type: line-break, offset: 439, content: '', id: KR4d0530_WYG_000-3a01}
+  - {type: variant, offset: 441, length: 0, content: '', SBCK: 詩}
+  - {type: variant, offset: 442, length: 1, content: 原, SBCK: ''}
+  - {type: 'kr:newline', offset: 444, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl36}
+  - {type: line-break, offset: 444, content: '', id: KR4d0530_WYG_000-3a02}
+  - {type: variant, offset: 451, length: 1, content: 哉, SBCK: 㢤}
+  - {type: variant, offset: 456, length: 1, content: 宮, SBCK: 宫}
+  - {type: 'kr:newline', offset: 465, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl37}
+  - {type: line-break, offset: 465, content: '', id: KR4d0530_WYG_000-3a03}
+  - {type: variant, offset: 473, length: 1, content: 歌, SBCK: 􅁔}
+  - {type: variant, offset: 475, length: 1, content: 咏, SBCK: 詠}
+  - {type: variant, offset: 478, length: 1, content: 性, SBCK: 􅒏}
+  - {type: 'kr:newline', offset: 486, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl38}
+  - {type: line-break, offset: 486, content: '', id: KR4d0530_WYG_000-3a04}
+  - {type: variant, offset: 488, length: 1, content: 於, SBCK: 扵}
+  - {type: variant, offset: 500, length: 1, content: 於, SBCK: 于}
+  - {type: 'kr:newline', offset: 507, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl39}
+  - {type: line-break, offset: 507, content: '', id: KR4d0530_WYG_000-3a05}
+  - {type: variant, offset: 510, length: 1, content: 來, SBCK: 来}
+  - {type: variant, offset: 511, length: 1, content: 寖, SBCK: 䆮}
+  - {type: variant, offset: 518, length: 1, content: 㣲, SBCK: 微}
+  - {type: substitution, offset: 518, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3560}}
+  - {type: variant, offset: 527, length: 1, content: 能, SBCK: 􅀎}
+  - {type: 'kr:newline', offset: 528, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl40}
+  - {type: line-break, offset: 528, content: '', id: KR4d0530_WYG_000-3a06}
+  - {type: variant, offset: 529, length: 1, content: 備, SBCK: 􅇱}
+  - {type: variant, offset: 538, length: 1, content: 追, SBCK: 􅇷}
+  - {type: variant, offset: 541, length: 1, content: 所, SBCK: 􅀁}
+  - {type: 'kr:newline', offset: 549, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl41}
+  - {type: line-break, offset: 549, content: '', id: KR4d0530_WYG_000-3a07}
+  - {type: variant, offset: 549, length: 2, content: 而後, SBCK: ''}
+  - {type: variant, offset: 552, length: 0, content: '', SBCK: 以振}
+  - {type: variant, offset: 556, length: 1, content: 足, SBCK: 􅁕}
+  - {type: variant, offset: 561, length: 1, content: 於, SBCK: 于}
+  - {type: substitution, offset: 563, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4411}}
+  - {type: variant, offset: 564, length: 1, content: 脩, SBCK: 􅁱}
+  - {type: substitution, offset: 564, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
+  - {type: 'kr:newline', offset: 570, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl42}
+  - {type: line-break, offset: 570, content: '', id: KR4d0530_WYG_000-3a08}
+  - {type: page-break, offset: 570, content: '', id: KR4d0530_SBCK_000-1b}
+  - {type: variant, offset: 578, length: 1, content: 昻, SBCK: 昂}
+  - {type: 'kr:newline', offset: 591, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl43}
+  - {type: page-break, offset: 591, content: '', id: KR4d0530_WYG_000-3b, image: WYG1215/WYG1215-0002d.png}
+  - {type: 'kr:newline', offset: 591, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl44}
+  - {type: line-break, offset: 591, content: '', id: KR4d0530_WYG_000-3b01}
+  - {type: substitution, offset: 592, original: 媿, replacement: 愧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1285}}
+  - {type: variant, offset: 595, length: 1, content: 德, SBCK: 徳}
+  - {type: variant, offset: 603, length: 1, content: 𢎞, SBCK: 􅊼}
+  - {type: variant, offset: 604, length: 1, content: 楊, SBCK: 􅀭}
+  - {type: 'kr:newline', offset: 612, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl45}
+  - {type: line-break, offset: 612, content: '', id: KR4d0530_WYG_000-3b02}
+  - {type: substitution, offset: 616, original: 㬅, replacement: 曼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3315}}
+  - {type: variant, offset: 617, length: 1, content: 石, SBCK: 碩}
+  - {type: substitution, offset: 618, original: 掲, replacement: 揭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4497}}
+  - {type: variant, offset: 627, length: 1, content: 於, SBCK: 扵}
+  - {type: variant, offset: 631, length: 1, content: 厯, SBCK: 曆}
+  - {type: variant, offset: 632, length: 1, content: 間, SBCK: 中}
+  - {type: 'kr:newline', offset: 633, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl46}
+  - {type: line-break, offset: 633, content: '', id: KR4d0530_WYG_000-3b03}
+  - {type: variant, offset: 635, length: 1, content: 鼔, SBCK: 鼓}
+  - {type: substitution, offset: 635, original: 鼔, replacement: 鼓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3777}}
+  - {type: variant, offset: 648, length: 1, content: 哉, SBCK: 㢤}
+  - {type: 'kr:newline', offset: 654, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl47}
+  - {type: line-break, offset: 654, content: '', id: KR4d0530_WYG_000-3b04}
+  - {type: variant, offset: 656, length: 1, content: 於, SBCK: 扵}
+  - {type: 'kr:newline', offset: 675, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl48}
+  - {type: line-break, offset: 675, content: '', id: KR4d0530_WYG_000-3b05}
+  - {type: variant, offset: 678, length: 1, content: 苟, SBCK: 茍}
+  - {type: variant, offset: 690, length: 1, content: 陵, SBCK: 􅁜}
+  - {type: variant, offset: 693, length: 1, content: 杼, SBCK: 杍}
+  - {type: 'kr:newline', offset: 696, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl49}
+  - {type: line-break, offset: 696, content: '', id: KR4d0530_WYG_000-3b06}
+  - {type: variant, offset: 706, length: 1, content: 來, SBCK: 来}
+  - {type: page-break, offset: 714, content: '', id: KR4d0530_SBCK_000-2a}
+  - {type: 'kr:newline', offset: 717, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl50}
+  - {type: line-break, offset: 717, content: '', id: KR4d0530_WYG_000-3b07}
+  - {type: variant, offset: 731, length: 1, content: 所, SBCK: 􅀁}
+  - {type: 'kr:newline', offset: 738, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl51}
+  - {type: line-break, offset: 738, content: '', id: KR4d0530_WYG_000-3b08}
+  - {type: variant, offset: 746, length: 1, content: 性, SBCK: 􅒏}
+  - {type: variant, offset: 751, length: 1, content: 足, SBCK: 􅁕}
+  - {type: substitution, offset: 753, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
+  - {type: variant, offset: 754, length: 1, content: 性, SBCK: 􅒏}
+  - {type: variant, offset: 756, length: 1, content: 所, SBCK: 􅀁}
+  - {type: variant, offset: 757, length: 1, content: 發, SBCK: 彂}
+  - {type: 'kr:newline', offset: 759, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl52}
+  - {type: page-break, offset: 759, content: '', id: KR4d0530_WYG_000-4a, image: WYG1215/WYG1215-0003a.png}
+  - {type: 'kr:newline', offset: 759, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl53}
+  - {type: line-break, offset: 759, content: '', id: KR4d0530_WYG_000-4a01}
+  - {type: variant, offset: 759, length: 1, content: 於, SBCK: 扵}
+  - {type: variant, offset: 773, length: 1, content: 所, SBCK: 􅀁}
+  - {type: variant, offset: 774, length: 1, content: 蓄, SBCK: 畜}
+  - {type: variant, offset: 779, length: 1, content: 游, SBCK: 㳺}
+  - {type: 'kr:newline', offset: 780, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl54}
+  - {type: line-break, offset: 780, content: '', id: KR4d0530_WYG_000-4a02}
+  - {type: substitution, offset: 782, original: 歛, replacement: 斂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1114}}
+  - {type: variant, offset: 788, length: 1, content: 淡, SBCK: 􅌿}
+  - {type: variant, offset: 790, length: 1, content: 崑, SBCK: 昆}
+  - {type: variant, offset: 791, length: 1, content: 崙, SBCK: 侖}
+  - {type: variant, offset: 796, length: 1, content: 沃, SBCK: 沷}
+  - {type: 'kr:newline', offset: 801, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl55}
+  - {type: line-break, offset: 801, content: '', id: KR4d0530_WYG_000-4a03}
+  - {type: variant, offset: 801, length: 1, content: 涵, SBCK: 􅇽}
+  - {type: substitution, offset: 805, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4506}}
+  - {type: 'kr:newline', offset: 822, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl56}
+  - {type: line-break, offset: 822, content: '', id: KR4d0530_WYG_000-4a04}
+  - {type: variant, offset: 826, length: 1, content: 俊, SBCK: 㑓}
+  - {type: variant, offset: 835, length: 1, content: 競, SBCK: 竸}
+  - {type: variant, offset: 836, length: 1, content: 妍, SBCK: 姸}
+  - {type: 'kr:newline', offset: 843, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl57}
+  - {type: line-break, offset: 843, content: '', id: KR4d0530_WYG_000-4a05}
+  - {type: page-break, offset: 858, content: '', id: KR4d0530_SBCK_000-2b}
+  - {type: 'kr:newline', offset: 864, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl58}
+  - {type: line-break, offset: 864, content: '', id: KR4d0530_WYG_000-4a06}
+  - {type: variant, offset: 868, length: 1, content: 足, SBCK: 􅁕}
+  - {type: variant, offset: 873, length: 1, content: 美, SBCK: 羙}
+  - {type: variant, offset: 876, length: 1, content: 契, SBCK: 􅆻}
+  - {type: variant, offset: 877, length: 1, content: 於, SBCK: 扵}
+  - {type: 'kr:newline', offset: 885, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl59}
+  - {type: line-break, offset: 885, content: '', id: KR4d0530_WYG_000-4a07}
+  - {type: variant, offset: 889, length: 1, content: 誼, SBCK: 􅁩}
+  - {type: variant, offset: 893, length: 1, content: 始, SBCK: 姑}
+  - {type: variant, offset: 894, length: 1, content: 僭, SBCK: 僣}
+  - {type: variant, offset: 895, length: 1, content: 叙, SBCK: 序}
+  - {type: variant, offset: 898, length: 1, content: 冠, SBCK: 􅃣}
+  - {type: variant, offset: 899, length: 1, content: 篇, SBCK: 萹}
+  - {type: 'kr:newline', offset: 906, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl60}
+  - {type: line-break, offset: 906, content: '', id: KR4d0530_WYG_000-4a08}
+  - {type: variant, offset: 906, length: 1, content: 釋, SBCK: 􅇚}
+  - {type: variant, offset: 909, length: 1, content: 來, SBCK: 来}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl61}
+  - {type: page-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b, image: WYG1215/WYG1215-0003b.png}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl62}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b01}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind41}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl63}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b02}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind42}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl64}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b03}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind43}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl65}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b04}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind44}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl66}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b05}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind45}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl67}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b06}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind46}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl68}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b07}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind47}
+  - {type: 'kr:newline', offset: 912, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl69}
+  - {type: line-break, offset: 912, content: '', id: KR4d0530_WYG_000-4b08}
+  - {type: indent, offset: 912, content: 　, id: KR4d0530_krp_000-bkkind48}
+  - {type: variant, offset: 912, length: 1, content: 蜕, SBCK: 右潞國張公詩集若干卷廬􅁜沙門大杼北山之􅀁編集也先是潞公扵元季多故之際薨于燕都由其無後北山為之􅀴紀塟事未㡬天兵北伐燕都不守北山取其遺槀歸江南凡選得九百首将刋板以行于世或有問扵余曰北山釋之有道者宜視身為外物而乃汲汲扵故人詩集得非未􅀎遺情乎余謂之曰至人不遺情古之髙僧猶不􅀎免如梁慧約以苦行得道為帝王師而哭其亡友甚哀至賦詩曰我有兩行涙不落三十年今日爲君盡併灑秋風前北山念潞公無後平日交友又皆異世淪謝懼其泯􅃿無傳故仗義而為之然亦何害扵道其與約之情則一也當元統甲戌間余識潞公于金􅁜後㑹于燕都于錢塘盖三十餘年固非一日之好觀北山斯舉豈􅀎無動于中謹書卷末如此若潞公之詩名震耀海内不俟余之稱羙故弗論洪武十年冬天界善世禪寺住持天台釋宗泐蛻}
+  - {type: page-break, offset: 912, content: '', id: KR4d0530_SBCK_000-3a}
+  - {type: page-break, offset: 912, content: '', id: KR4d0530_SBCK_000-3b}
+  - {type: page-break, offset: 912, content: '', id: KR4d0530_SBCK_001-1a}
+  - {type: substitution, offset: 912, original: 蜕, replacement: 蛻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3170}}
+  - {type: variant, offset: 914, length: 0, content: '', SBCK: 詩卷之一衡山釋大杼北山編}
+  - {type: variant, offset: 915, length: 0, content: '', SBCK: 五言古詩獨酌謡有酒且一醉有歌且一謡杯盡當再沽瑟罷須重調生足意自適身榮心苦焦所以􅀺首人多在於漁樵一謡仍一酌且復永今朝明朝未可料況乃百歳遥所願花長開羙酒長滿瓢静疑太古調散覺神理超近識南郭叟得酒時見招盡醉即高卧誰能慕松喬古鏡古鏡色如墨照人不見形我照乃見心洞徹天地明此明非外来此墨非内有自是丗上人惟􅀅照妍醜題林大用􅀮居飯牛山山田多白石陽坡足豐草痩地費牛力飯之當􅀫飽近午牛背􅀬出畊須及早觧紖休樹隂念此觳觫老􅀮君抱正學消摇事幽討商歌千齊覇戚也豈知道安童都事字鼎新号太虚徵予賦之集賢院太虚本無象何有倪與端至理妙自然萬化孰控摶天地亦一物而在虚空間所以豪桀士不受丗網干脫迹形噐表出入􅇒汗漫鸞鵠為我導雲飊作之翰仰攀霄衢轡俯濯鳯池瀾緑文粲瑶匭高咏瀛洲山冥心合玄想坐以空洞觀琳􅃾薦朝食紫金咀神丹無待無窮外浩然與之還中秋望月常年見明月不飲亦清歡詎意有今夕照此長恨端近聞錢唐破㳅血城市丹官軍雖殺賊斯民巳多殘不知親與故零落幾家完聚囬庭中影對酒起長歎死生兩莫測欲往書問難仰視雲中鴈安得託羽翰凄其衰謝踪有泪徒䦨干山中松筠地棄置誰與看河漢變夜色西風生早寒累觴不成醉百念摧肺肝送客齊化門東馬上即賦白楊多悲風黄葉滿行路荒溝寒水碧􅅍石且無數我興逺送别駐望生百慮欲往豈不懐畏此簡書故遥遥墟烟上歴歴鳴鴈度秋景倐巳短歸人駈車去勞歌一悽然囬首重愁莫陽曲薛義士旌表詩卷至正二年事十二年其里人趙時昭求題上天乆無雨南風日吹沙旱氣彌􅍵􅍵六月稲不花晉土素墝瘠如此歳食何上官方勸分輔也薛義土名起歎嗟發帑捐積鏹糴粟来連車吾郷忍溝壑哺爾萬口呀厚澤田里􅀍頌聲父老誇具備丗弗務征歛惟紛拏遂令活人功乃出一士家不知時有司視此無愧耶我作義薛詩好徳良可嘉願言講荒政生意當無涯前出軍五首前軍紅衲􅂁朱􅁝擊彭排後軍細鎧甲白羽攅鞴靫輜車左右馳萬馬擁長街送行動城郭斗酒飲同儕壯士當報國母為郷故懷鍜銕作佩刀磨石為箭鏃中軍把轅門前豎十尺纛朝上盧溝槗夕次泃河曲超乗既誇勇騁馬復齊足男兒不封侯百年同視肉昨日發萬軍今日發萬軍明日發萬軍梟􅀐来群群馬蹄所經過黄埃蕩成雲堆粮與作餘倒樹與作薪道途行者絶那得有居人大軍北庭来部伍各有屯放馬}
+  - {type: page-break, offset: 915, content: '', id: KR4d0530_SBCK_001-1b}
+  - {type: page-break, offset: 915, content: '', id: KR4d0530_SBCK_001-2a}
+  - {type: page-break, offset: 915, content: '', id: KR4d0530_SBCK_001-2b}
+  - {type: variant, offset: 916, length: 1, content: 序, SBCK: 隰枯磨刀河水渾行行且射獵雉兔不復存野次群駝卧弓箭掛車轅幽幽􅅇聲起日莫傷人魂京師少年子膽氣乃麄豪傾金售寳剱厚價買名刀白氈作行帳紅綾製戰􅂁結来往􅀙軍談咲取功勞當時霍驃姚豈在學戎韜後出軍五首歩卒傖楚健長刀短甲衣大呌前􅅮敵跳蕩如鳥飛左提血髑髏右奪賊馬歸黄金得重賞頋盻生光輝尓軰疾歸命􅀅軍是天威我軍城東門呼聲震屋瓦百萬山壓来此賊何足打狂鋒尚九拒轉闘血噴洒城中有暗溝多陷人与馬􅀅令母輕入明當一鼓下先鋒才攻門後軍巳登陴㧞都不怕死直上搴賊旗馬前獻逆首脚下踏死屍長河走敗船疾遣飛􅀅􅇷幙中作露板應有傅脩期行行銕兜牟隊隊金駱駝嗚嗚吹銅角来来齊唱歌捴戎面如虎指頋揮琱戈馬蹄無賊壘手箠可塡河王師本無敵安用戰圖多魔賊生汝亳獠賊起于海嬰鏠天狗堕觸網奔鯨駴徐方一戰収振旅巳奉凱江浙塵既清豫章圍亦觧諸􅀅如竭力削平行可待漷農嘆漷南有農者家堇一兩車王師征淮蔡官遣給軍儲翁無應門児老身當一夫勞勞千里役泥雨半道途到軍􅇜焚烹翁脫走故閭車牛力既盡户籍名不除府帖星火下爾乗仍往輸破産不重置笞箠無完膚翁復徒手歸涕泪滿敝􅃭問家墻屋在榆柳餘殘株野雉雊梁間狐狸穴階隅老妻出傭食四頋筐箧無有司更著役我實骨髄枯仰天􅂘欲死醉吏方歌呼雜詩先人有夙訓聞在㓜壮時豈意衰莫日乃復親驗之茫茫上天理詎可私臆知百年大化中㳅浪􅀙推移信彼杞憂者徒為衆所嗤叔子隣家児探環記前身次律永師後一悟了􅀫因我亦清源洞蛻骨岩下人誤堕聲利區駈馳䘮其真所以付樽酒都忘賤与貧惜無還丹術髙舉遺丗塵悠悠笙鶴期曠望三山津寒日迫縣車寸隂老逾惜晨趋理公務莫返親墳籍䆒往發􅀌憤思来抱深惕理惬復相忘神劬聊一息湛然擁􅁭坐栩栩鼻端白千齡與化終不朽在方䇿聖哲有明訓學道庻目益寒夜何皛皛中庭積繁霜天風下河漢萬里㳅玉光羽衣四三人各乗白鳳皇笙響發空際游雲髙駝翔無縁執霞佩擥結双明璫願托月中桂終古有餘芳隴阪何﨑嶇行人且復止直上望秦川遥遥憶郷里㳅離肝膓㫁悲歌不能已一身已遐征永念同室子何殊轉蓬科随風四散起雖得同根生不得同根死吾恐古今泪多於隴頭水春江採芳草將以伸繾綣􅀄期拾翠洲復道滋蘭畹羙人隔花深歌竟瑶瑟偃臨㳅不可見忽恍心未稳佳時難驟得鶗鴂鳴已晚秪有千古思緜緜楚波逺􅀺丘之丈人歸路逢竒􅀑既為􅀑所惑又復􅀑其子夏南㳙蜀梁俯影明月裏背走謂伏􅀑而又􅀑諸已此皆非􅀑者特以疑故死憧憧姦佞徒情状真􅀑爾匿跡不自慙胡為滿朝市河淮厭兵禍城邑多荒榛百里無幾家但見風起塵燕雀歸巢樹豺虎飢食人郷来脂膏地死骨今如銀㳅亡使復業牛種當及春安得百龔召錯洛為拊循征討尚未息奈何爾遺民五言長律元日靈臺官以􅀄四日已酉時享遂以􅀊除日受誓于中書廼免朝賀紀詩八韻清廟當春享􅊮庭放早朝扈鳴更暦正龍集轉寅枸瑞日開黄道卿雲映絳霄八方周象譯九奏舜簘韶爐煖香生术杯紅酒汎椒新符欎壘換候琯女夷調有待寛書下行看戰甲銷衰年今可引歸老故山樵分題送京非趙畊師尹之臨安路帥府照磨得通海湖萬湏平湖碧浮光暎泬􅋁秀山純浸影滄海暗通潮瘴黒雲相蕩春澄雪未消潤沾䝉部闊川合弭河遥秔稲収田利蒲魚入市饒雨歸龍氣􅊜晴浴鶴媒驕夾樹迷深箐㳅花落野椒氈来蠻婦漂舩放僰僮橈帥閫開荒甸英材屈下僚此心同逝水日夜向東朝送劉貞廷􅆬捴管之嘉禾内御史宣徽院判􅋞守膺民􅀉循良不數公使君新建隼御史近乗􅍡内府聲華著專城控制雄老成歸物望清切蕳宸􅂨紫綬盤銅虎朱􅙲擁晝熊焚香迎父老􅀐竹走兒童檇李名藩古句吴地利通粤􅀙師次後俱在震隣中水暗臺隍月雲寒鼓角風蠻氛猶漲黒戰血未消紅聖主方圖治台司亦即戎頻煩綸綍下次苐甲兵空公䓁冝宣力王臣固匪躬関防先武備國計務農功黄覇徴當最陽城考欲同蒼旻飄勁氣白日照精忠萬象天樞北三山海市東旱龍俄作雨時喜得雨故及陽鳯已鳴桐善政風須變虚襟理自融平生經丗志要似莭軒翁福唐張氏永思堂父文任尗明通子文矩与文任子宗彛請於尗父玄瓚名其堂云自昔閩多士吾宗丗有人共聞雨孝子永慕百年親僾􅀂音容在巍然棟宇新秩筵仍几丈温鼎自淳珎草護稱觴地花迎戯綵辰㳅芳變春雨精意動秋旻風敎􅀜民俗文章籍史臣聲詩播休美正為盛時陳成居竹有書報甥􅀓君亮至􅀭州言其家與外表舅吴仲益及婦家二叔學生韓與玉金家無恙喜甚有懐始得平安信渾紓悵望心争看尺素字絶勝萬黄金危甚􅀄秋警幾於平陸沈蜂屯昱嶺上豨突浙江潯縦爾駈鋒鏑寧逃磔斧碪官軍俄克復􅅍首即成擒城市半焦土親朋多好音巳知生有路暫免泪霑􅁭老子歡殊劇家人酒快斟狂歌􅃻手板醉倒脫頭簮􅀺庻思甦息皇天願照臨國威雖震㬪兵氣尚䔥森自頋形骸累仍嗟􅀊月侵懐歸畏吏議承乏念官箴虎豹􅀜非逺龍虵水更深豈無黄石畧虚遣白頭吟落日耿殘雪浮雲生夕隂枯萁聞齕馬踈樹見栖禽松竹荒須理茅茨破可尋前身本道士不是變山林五言律詩衡山福嚴寺二十三題為梓上人賦般􅀂寺般􅀂南朝寺思公第一傳拓開方丈地坐㫁再生禪貝葉収經夾曇花散法筵山􅂕應夜夜来禮佛燈前一生巖􅀄地靈峯下重来為講經神應合掌受石亦􅀧頭聴雲鶴随飛蓋湖龍入净瓶至今花雨處長照一燈靑二生塔塔寺前朝舊山林􅀫業空法身無幻壊蔵骨自神通寳供􅃢瑚碧珠光舎利紅無緣香一瓣囬向佛堂中三生蔵神僧􅄺槃處那有去来今尚記三生石難磨萬古心地理禪刹在山掩岳祠深長日聞鐘梵䔥䔥楓桂林天柱峯一柱標南紀神功自断鼇寒通􅒖嶁逺􅀔敵祝融髙異鳥流清響神燈現白毫危顛可觀日夜湧海東濤擲鉢峯神僧手中鉢擲向最高峯徑度虚空上難㝷変化踪錫飛曽近鶴劒躍或成龍搔首不可見烟霞千萬重㝎心石燕坐百念息湛然方寸間相無分彼我空巳判真頑魑魅来相試芻尼去不還从人咲癡衲長日此看山磚鏡亭曺溪一祖後衡岳丗多賢分得燈相續提􅀅印宻傳法音風萬􅄜禅性月中天珎重磨磚喻微機要自詮隠身巖塵丗苦􅀬惱山林長夏幽岳神来護法尊者坐經秋呼粥魚頻響銜花鹿自游法雲長散滿七十二峯頭三泉一沼功徳泉天成後双泉神應来雲根錫卓破卓錫泉地脉虎跑開虎跑泉暗溜懸山雨寒光􅃞石苔諸僧朝盥罷相次上堂囬岳心亭何許新亭好軒窓窈窕深天開雲四面地據岳中心雨緑蘪蕪道風香薝蔔林曉嵐収不盡猶作半山隂目雲亭兩公俱古佛遺迹在斯亭塔寺疑神造山川本地􅂕峯秋陽鴈㫁潭暮雨龍腥老􅀫忘言乆閑抛案上經迎雲亭細路捫蘿上高亭在翠微樹隂􅞲草座山氣濕田衣落日􅀌鐘動遥天一錫飛悠然片雲下知是應真歸兜率橋傳是竺僧􅀃山如兜率宫駈龍擘地險架石補天空星土熊湘合雲沙鷲嶺通䦨干􅀝来乆時度吉祥風開虹橋蝃蝀横當道蜿蜒下匯潭幽光飛睒睒危構欎耽耽鳥下窺寒瀑樵囬帶夕嵐遥知􅀃法豦来作老人叅大慧塔大慧談經地林園即給􅀌鑿雲蔵舎利鞭石起浮圖風鐸時喧寂天經忽有無沙門每来此三繞作南謨讀書堂上年賢宰相遁迹白衣時試問葫蘆卜何如􅂴瓉知才名㽞别傳香火􅀉空祠千載衡江水東㳅有所思煨芋岩彼羙山中芋輪囷􅀋餓鴟暖生松火夜香透竹爐時虎迹群行滿猿聲獨嘨悲鄴侯知味否莫比御燒梨御書閣粲􅀂唐宸翰森然宋賜書寳蔵經閣上光動道塲􅀄川岳㽞竒􅀚風雲繞浄居何時能一到銀鑰借開魚退道坡神鑿三百級盤囬上峻坡攝衣蒼蘚滑􅀝杖白雲多野叟畊麋􅕨山都􅀉鳥窠朱􅁜足仙侣飛錫㝎相過止南寮昔隠黄龍老今遺書記寮人天所供養巾盋此逍遥仙樂時時下香雲往往飄千秋一金塔㽞在􅀑神朝蔵雪寮雪山一片雪何日落中華皎㓗無藏處虚空自作花石厓穿乳竇海岸曡潮沙㡳用分荆越諸方揔是家水雪菴近嶺無水雪菴居易過寒飯炊麻子熟衣􅀘衲頭完顥氣詩脾裏雷音講舌端知師最清苦歸去北山干題桐廬鳯山寺僧道大鷺雪軒禅宗忘機地舂鉏尓亦􅂕飛来萬􅀧雪巢破一林青晚瀬明拳足秋蘿退閣翎山神護􅀃法吹㫁草風腥蓬軒為呉僧元􅁩賦縛竹作禅宇小於江上舟樹聲疑㬪浪月影似中流興􅀉江湖逺身同丗界浮懷師燕坐處吾道在滄洲静􅀉軒為呉僧一元賦群動寂􅋁外一軒蕭洒中山林亦長物身丗本虚空淸磬花龕日􅀌燈竹榻風不曽離寓所惟有主人公抱素子作自適圗求詩隐者抱幽素獨行穿杳冥有詩吟木客無駕勒山靈寒澗㳅沙白秋雲入竹青携琴冋何處彈與野猿聴北山誦藏經三旬畢詩以調之金布莊嚴地花飛梵唄時舌端彈孔雀頂上集芻尼國壽祈天永皇心體佛慈明當喜圎滿一月廢吟詩用北山韻荅之吾衰年冉冉師落日閑閑師以詩娯意吾􅀅酒駐顔看雲知幻滅見月喜明還莫問誰家曲相酬􅀏語間馮秀才伯學以丹青山水小景求題沙禽毛羽新来往采桑津野水碧於草桃花紅照人裴囬逺山暮窅窕江南春芳思不可極悠然懷釣綸送觀性空上人歸省白髮高堂在青山舊業貧戴經随客舫㽞偈别禪鄰行路半春雨近郷多故人一龕還可老莫汙衲衣塵送以中及公自􅀭州天寧寺遊匡廬趺坐對船燈江風浪幾曽還从鶴城路去訪虎溪僧湖曉星浮石岩春瀑断氷呉中卻囬日應老舊池菱清軒軒居最瀟洒不受一塵侵門断懷金者人知飲水心鶴聲生晚思竹色浄秋隂此意琴樽外翛然只自深懷天目山處士張一無仙岩道士禮中峯受戒具一飯了年華蒲􅇛静結跏雪蹊抛即栗風壁裂袈裟寒􅎜窺燒葉飢禽聽施茶清除億劫想吾欲問僧伽僧舎蜂腰綴君居苐幾間池水寒掛瀑雲雪白蔵山未得抛塵網相从出死􅀜東岡幻住塔禮罷幾時還送福上人無際南歸歳閏春来早師行且過寒問程山寺逺乞食野人難空性元無際禪鋒豈有端遇予方外友一為道平安清河水漲荅復中吉監縣水字韻􅐯瀁清河漲湍流滋浸滛滄溟渾灌注濁浪浩浮沈洲渚津涯濶泥沙沮洳深􅆓淮澤鴻滿漂蕩渡江潯話舊送胡士㳟之京師話舊共蟬連河槗且繫船春歸花滿地江闊雨連天處士題鸚鵡詩人拜杜䳌此生雖老去未敢愧前賢送鄭喧宣伯赴赤那思山大斡尓朶儒學敎授四首聖祖興王地風雲護大營天垂紫塞闊星戴赤山明人俗殊淳古皇文易化成君行當勸學無愧魯諸生絶漠同文軌提封振古稀大牙開武帳元老秉天威白馬紫駝酒靑貂銀䑕衣那思山下水曽覩六龍飛野散千軍帳雲横萬里川寒多雨是雪日近海為天黒􅁰甘供醸黄羊飽割鮮廣文但少客寕慮坐無氊晨發戒行裝風沙磧路長油韀白鼻馬藍綬赤銅章文學重新命故人嗟異方時時有北使書札慰相望賞静軒四詠􅀉題武林朱氏賞尓軒中静春来亦亊忙徙花寛􅀫土澆竹趂朝陽祝子蜂生管歸巢燕認梁時時消午醉起坐自調香賞尓軒中静四窓虚更清客歸棊響寂児卧簟紋生海樹移㘽活山花入望明莫令河朔軰来此閙飛觥賞尓軒中静微凉先得秋杯香浮淡沲琴思冩深幽風月每坐嘨雲山惟卧游黄花最宜晚開滿徑東頭賞尓軒中静超然寂寞娱凍喧嫌雀子煖卧愛狸奴燈暈因風有窓聲是雪無山童頗觧亊巳置煑茶爐用友生韻自遣静捲風簾坐虚庭月色深讀書平日亊憂􅀦暮年心海上槎如到山中藥可㝷但無酒酤我持底觧煩􅁭次杜德常僉院韻鰲禁欣同直髙閑勝俗忙露花迎夕歛風樹借秋凉太史蘭䑓筆郎官粉署香明時鈴索静有喜到嵓廊悠然閣為歙鄭処士作鄭子林居好遥希靖莭賢看山秋色裏把酒菊花前人境殊多亊吾庐自一天能知此中意何處不悠然聞董孟起副樞乃弟鄂霄院判凶訃哭之天狗忽墮地兵生牙帳中寕為伏劒死不作倒戈攻故國魂歸黒平原血濺紅驚心激此變誰為責元戎群盗猶銅馬􅀅軍真虎牙死當為厲􅀑生不􅀒皇家野色寒沈日河聲怒捲沙征東失名􅀅朝野共驚嗟自顧自顧摧頽客仍居寂寞濵月傭奴誶少歳計婦􅁨貧酒後詩傳夢燈前壁冩神漁樵吾所喜相見即情親宫中舞隊歌詞十六天魔女分行錦繍圍千花織歩障百寳帖仙衣囬雪紛難㝎行雲不肯歸舞心挑轉急一一欲空飛鑿海行龍舸馮山起鵠䑓天池神馬出月殿舞鸞来六合妖氛静群生壽域開吾皇樂民樂願上萬年杯白玉琱􅁫燕黄金鑿歩蓮簫吹鳯臺女花獻蕊宫仙香霧􅇛銀燭歌雲撲錦筵請􅀅供奉曲同賀太平年陳伯􅀅作北山梓公岳居圖予題于上髙僧業何許雲夢澤南州楼閣諸天上江湖萬里流禅心無住著生丗􅀂浮休寂寞京塵裏披圖時卧游潞荘松棚叟賣漿棚下午風凉獨澗繞群木数家成一坊蜂閑花巳􅁡􅅙罷葉仍桑此地無千歩真堪作蛻蔵鴈聲嘹嘹数鴈度㳅響一悽然半落淮南雨遥沈海上天踈砧欲断處哀角未吹前我亦離群者聞之夜不眠馬通薪可代薪如桂還宜火作媒翁攤扶杖立童拾戴筐囬野屋塞堆整山爐夜撥􅁅廐官無好亊不遣換香来烏桕樹西湖慈雲山側和靖有詩巾子峯前樹逋仙句最工迥明霜寺外半落石池中鄭老惟書柿崔郎只詠楓山林正寂寞借此作春紅聞蝉中庭白榆樹時有一蝉声沸繭方抽緒鳴絃忽断笋蒼烟起平椘落日下高城曽是天涯客因之百感生書所見戊戌七月溝中人啖屍道上母抛兒有眼不曽見無方能療飢干戈未觧日風雪正寒時㱕向妻孥􅀃母嫌朝食糜城南官掘穴日見委屍􅄹終朝鳥烏下薄暮狼狐鳴氷裂人刳骨風悲􅀑哭声茫茫死生理真宰豈無情偕鄢元止善東門視田白骨如􅅍石荒村殊􅆭神惡風生殺氣斜照逼帰人應俗悲多故全生幸此身靑青原上麥亦復可憐春題林德叙竹雪齋髙齋脩竹林積雪竹間深歳暮不改色幽人同此心種梅分地􅂩籠鶴就墻隂想見椒江上扁舟許客尋雪後雪後北風急起行氷滿須凍泥􅁨蹇馬活火爱􅇛蒲数口狼依狽群情虎畏貙毎逢来使問親故有書無路滑堆殘雪山晴散􅀫霾民生巳􅂗炭兵氣尚江淮撫丗􅁨徒切謀身計自乖臨觴且復醉吾命有安排癸巳元日即事禁苑朝珂集宫楼晝刻傳雲間黄道日春麗紫微天進虎蠻如畫仪鵉仗􅀋仙晨􅀚浄氛渾即是偃兵年大駕時廵千官導送至大口萬乗廵行逺三􅂕佑護多旌旄隨大纛鼓鐸襍鳴駝􅀄日浮黄繖微風送玉珂臣心如草色不断到滦河松巢為潜川謝堯章作林栖有隠君結構出塵氛就樹􅃒青雨牽蘿􅀘白雲双鳩从比拙獨鶴与平分華屋非無数山中了不聞蛻菴歳晏百􅁨熏心排遣以詩乃得五首開􅀊七十五故園猶未帰看從今以後知復是耶非星斗天垂象龍蛇地發機邊声近稍息一醉典春衣小小新齋閣温温舊毾㲪精神全藉酒筋力半支藤蟄豸深坯戸㝠鴻巧避矰􅀩頭衲􅀍底何異在家僧丗路正如􅁄吾生猶繫匏詩人􅁔蟋蟀軍士歎蠨蛸無地营家食何心觧客嘲山林徒在眼難覓一枝巢書舎如僧舎心閑與静宜冩多髠兔頴藏乆蚛貂皮宦蹟年劳見生涯日暦知未應同與俊肯􅀒沃洲期乆悟無生􅀃从容与化遷機忘橰俯仰道悟宻中邊宇縣猶多壘干戈巳十年吾惟待其㝎帰種故山田十月一日瓦益醅純白甎爐火乍紅風生月暈後霜下角声中飢䑕窺燈暗驚厖吠巷空于今玉堂老詎信暮途窮立冬前二日髙秋日淒冷且復閉門居蠏壮輸芒後醅香出榨􅀄霜籬存晚菊臘瓮作寒葅更好山翁唱陽春恐不如呉下客懷和荅湛囦白先生廷玉湖海無窮亊風霜薄暮年客程淹白日吾道信青天影自詶形贈心寕受目憐平生五字律名在萬人前懷先隴京國㽞家乆餘生只自憐一單如老衲八十又新年義士心惟血䜛夫舌謾涎何時抱樽酒􅀏向計峯前七月廿九日此醜今方殛京城蹀血新也知天悔禍誰謂國無人勝氣騰龍虎沈機動􅀑神大庭親命詔終夜在延春自誓此醜行當殛吾身敢頋危要看奪笏處正是結纓時萬古千秋在皇天后土知寸心三尺簡肯愧史臣詞乙巳􅀄度日自壽今日吾生日開尊向竹齋家人更上壽凡亊請寛懷學道精神淡匡時志願乖百年原上土自有一抷埋病起強起梳頭坐窓明晚景新生遭兵是劫病與􅀑為隣農亊田疇廢􅁁声鼔角頻故山多藥物徒切未歸身雨凉一雨収殘暑新凉夜頓􅄈秋声滿落葉蟲語傍虚􅉉衰疾便髙卧㳺程嘆乆淹山林雖寂寞亦足養吾恬􅀊晚苦寒偶成四章録似北山老禅易之編脩風􅁀寒逾急星囬歳欲周缺牙便食粥痩骨怯重裘莭物殊牢落落圗益􅍝悠蛻窩真􅀋蟄長日火爐頭清眠夢屡斍霜氣轉凄凄春近鴈北郷月明鳥夜啼爐香㽞墨􅂐燭涙聚銀泥少釋幽􅁨疾㝷君一杖藜兒劣翻書􅁽猫馴伴座氊吟懷欣雪夜疾目畏風天惟酒能消日無方可引年我詩猶偈子一問北山禅短景促殘歳窮隂連大荒徂三隨所賦亀六可深蔵未了惟文債堪帰秪醉郷絁衾有餘暖翻喜夜天長四月十三日白丁駈上城徒手不能兵闘􅀅惟人色行涂多哭声惟将孔逹觧竟遣夙沙烹滿眼黄塵暮悲風􅃤淡生城東廢寺一逕入荒寂松風長晝寒野义栖敗屋魔女去空壇古佛金全剥遺碑字半刓時逢好亊者来剔蘚文看遊刘真君廟俗曰三十􅀰文山嘗辟兵于此古廟西原上虚廊半欲摧木龍鱗剥雨畫􅀑面生苔叟乞烧錢火巫抄構殿材英雄有神護遁蹟此中来漸老漸老惟貪睡相㽞火有情詩从年長淡寒入夜深清不鼓床琴㾌慵書帖字生灯花獨何喜連夕向人明夜􅀫青芝墳園水落寛舩歩年豐宻酒壚土酥分地産木􅁡薦秋􅃾認路塵踪㫁拖􅀏野影􅀌行人不可暮落日有於菟上都从駕幸東凉亭鶴禁烟華紫龍岡草色靑羽林移曉仗法駕幸凉亭大業開天造甘泉發地灵微臣叨侍从願睹萬􅀖寕西内應制即亊烽火連齊魯干戈接隴秦四郊多壁壘萬里半烟塵􅀅帥屯兵乆君王遣使頻老臣叨視草進罷一霑巾行次獨石驛大雨馹行廿里喜晴叚段青天出浮雲四散帰燕忙攙馬過蠅乱撲人飛逺道倦行李故山思採薇北風朝巳冷未敢御絺衣􅁀疾卧視草堂予再歳分院矣伏枕朝慵起惟􅀅藥裏親紛紜眼前亊憔悴病中身􅀫露濃於雨秋花好似春最嫌薑桂絶無處乞諸隣有㫖翥領宋史刋于江浙次東阿站南来十五驛幽絶獨斯亭下榻月􅀄上捲簾山更靑干時嗟莫齒从事厭勞形寂寞江雲外誰知使者星九日抵武安縣徘􅆦店水落衡漳急川囬上黨髙流年秋忽忽行路日滔滔山市人多癭沙溝地不毛村墟欣有菊小駐為持醪代祀湄洲天妃廟次直沽曉日三叉口連檣集萬艘普天均雨露大海静波濤入廟靈風粛焚香瑞氣髙使臣三奠畢喜色滿宫袍次石門驛投老復行役江湖秋興悲艤舟黄落處欹枕黒甜時燕閏歸何晚鷗晴浴故遲不妨無事飲聊遣有情癡剡中清風嶺王莭婦沈江處有血書石上盡日經行逺嶀山又􅌘山江光寒照外雨氣􅅍峯間野艇􅊻魚賣村巫詛虎還千秋貞婦廟㽞在血書班關嶺新昌縣青林抱澗阿直上更嵳峩田鑿雲根種人盤鳥道過􅅍泉鳴暗谷豐草被陽坡彷彿疑山􅀑衣裳隐薜蘿雨中次黄嵓驛􅀫雨晨􅀄歇高秋日浸微水聲千澗落雲氣萬山歸委羽洞天在仙人飆駕飛丹砂如可問吾豈戀朝衣夜過石溪驛籃輿揺醉夢軋軋過前岡木落風聲碎行人月影長逺村時見火霑露忽零裳一􅀏方言異前涂殊未央劉山驛處州馮山嶺兹山􅀋台剡囬復度中岑傳舍白雲上人家烏桕林此身嗟老大行路轉嶇􅋂佳處時停䇿終焉惬野心瀬溪一名猴溪古渡猴溪外風烟淡欲無島人形貌恠閩語言殊小店魚蝦市深林猿鳥都肩輿看山好􅀱􅀐緩前駈發漳州萬里漳南道遥連嶺嶠東山寒冬息瘴海近晝多風廢圃攅筋竹踈林落刺桐㯽榔新善啖一觧􅀫醒空歸武林家雨至練市韓伯清荘溪雨寒猶重山雲晝不開老夫喜閒暇練水得􅆓洄鳬鴈衝船過魚蝦入饌来故人居漸近應待舉吾杯汎舟靑鎮至姚師善莊夕囬韓莊明月半溪水歸人中夜舟樹隂屯岸合螢影入烟流勲業生無取田園老可謀悠然發清咏思繞白蘋洲召入國學雨中過髙沙湖細雨洒秋色平湖生白波客心貪路急帆力受風多落木生詩思驚禽避棹歌舟行不借酒兀坐奈愁何登歌風臺君王逝巳乆遺構在城空闊青徐拆蒼茫楚漢争荒山尚雲氣喬木有風聲無限登臨意長歌忼慨生早發魯橋路滑􅀨􅀄歇山昏雲未開看燈野店近聞鐸賈車来馬飽力方健蛬寒聲易哀偶逢南去使早早附書囬泊隆興章江門把酒西風裏挂帆南斗旁夕陽城角盡人影水中長問俗勞羇旅干時儗俊良平生查上意漂轉益難忘還自臨川省親鄞之長山元日有作丙辰茅屋鹿皮几柴扉烏角巾杯盤豐海味禮數畧郷人樹霽石秋曉山暄槎浦春僻居無一事即是葛天民次曹娥江廟貌丹青古碑詞風雨訛桮投估客拜神降女巫歌沙竈燒鹽速潮船聚堰多貞魂招不得揮酒大江波北歸四月一日舟至市涇乙丑緑樹村村合晴川浦浦通岸容寛積雨水色㝎囬風戍近時鳴柝漁歸忽艤篷船人喜相約乗早過垂虹泊淮口灧灧潮􅀄上移舟出浦中岸分清濁水帆掉合離風傖楚方言􅇎徐􅀭地利通何殊入喬口懐古思無窮黄河櫓後風才順桅頭日未斜舊河通瓠子新浪漲桃花得鱠因沽酒聞䳌更憶家迢迢雲氣外北望是京華㽞􅀫洪洞慶雲􅀚劉山甫方丈旅寓丹房夜髙城乍絶鐘蠟花燒燭短乳面潑茶濃山豁三更月秋添四壁蛬殷勤老貞士清話得从容舟行即事霧樹渾連水氷溝不受潮米鹽江上舫魚菜市中橋壮士寧辭辱仙公㑹見招􅁁淮無酒禁磊隈剰須澆天水混無際中流明月輪山形立積鐵潮色爛鎔銀沙露凍粘石海風寒薄人舟師傳吉語沽酒祭江神歸来􅅰擾群生裏茫茫大化中是非同喻馬得失一亡弓買酒从賢濁論文任􅀑窮此身河上鳥只合信天公處士聲華逺吾生志趣同結廬猶洛北避丗即橋東幾見薫天冨俱成撲地空虞羅謾機事未許􅆲冥鴻七月一日之集慶望日次錫山􅀫玄文舘海月光芒濕川雲意緒閑剛風浮地外元氣滿人間野榜歌相荅漁燈去不還電明知有雨只在九龍山九日謁告歸阻風御河齊家堰壬午雨後風俄􅁀蔵舟古岸隂早霜紅樹變殘月白河沈鷗汎乗長浪狐跳没逺林人生信淹速那敢易􅀄心至通州去􅀊南帰以九月十二日發通州今年召入亦以是月日至通州云驛卒争鳴鼓舟人喜下桅依然今日到恰以去年囬岸黒秋濤縮川紅夕照開君恩忘險阻不覺畏涂来自悟古佛風潘盎詩僧醉可朋有生還有劫無盡本無燈早自楞伽悟今非願力能此心寧萬慮於道即三乗海内虚遊子山中蛻骨仙一單如老衲八十又新年野馬飛䆫日醯雞舞瓮天吾今丈人行肯與衆争憐上除日南山蓮社期懴偕伯清昆季還飲南園禊飲湖亭上臨流自祓衣閏㽞春事晚風打酒船稀蛙子黒􅀄出桃花紅欲飛早霞知有雨霑洒送人㱕伯清邀予至青芝塢汎湖暮㱕塢韓先隴也落日風花起寒波倐眇然山蔵進雪寺岸護種氷田醉眼輕浮丗牢愁入暮年􅀂為湖一曲携釣隠漁舩淸明遊包家山乙丑逺近紅千樹繁開奪艶霞月明寒食雨春老上陽花軰路迷游躅宫詞入夢華東風葵麥恨囬首野人家太液曽来鵠髙臺舊影娥美人黄土盡故國白雲多野草荒神籍宫蓮怨棹歌羌兒洗馬處斜日滿寒波偕􅀭瑀元誠王􅇐自行湖堤閑歩湖上西風急秋隂正杳冥水㾗連岸白山色徹雲青蟄燕依深谷還鷗下近汀君歌我當和有酒滿長缾秋試後胡益士㳟㱕畨易與游呉山聖水寺髙處見滄􅈚西風吹酒醒潮来一片白山擁萬重青草木如浮動烟塵忽杳冥登臨不可極吟思滿秋汀清明日偕李欽嗣㳺呉公弓臺至雷塘蜀井路絶平沙過新塘水半乾龍㱕雷雨惡鶻没海天寛縣幟春酤熟行厨野祭寒此生無􅀝泊隨處得盤桓九月八日陪危太朴偕梁九思遊南城三學寺萬壽寺南城多佛刹結構自遼金旁舍遺民在殘碑好事㝷雨苔塵壁暗風葉石幢深一飯蒲􅇛了䔥䔥鍾磬音休日得聮􅀐髙秋天氣新樓臺唯見寺井里半成塵壞廟􅀑無主荒丘狐化人千齡共須盡囬首一傷神文昌樓望月時家巳㱕浙上今夜溪樓月登臨倍惘然電光何處雨風色欲秋天歴歴燈縁岸依依􅅇起船江湖歸路渺囬首白鷗前清明日遊東山謁栖霞嶺􅄷先生墓前軰凋苓盡南陽有古阡詩應傳四海酒不到重泉槐國真成夢桃源亦是仙松根一匊淚􅃤淡墮風烟秋日獨行埂上偶至清修寺庚午溪南野寺幽巾舄偶相求古道多黄葉殘僧半白頭逺村髙鳥暮灌木􅅍蟬秋此地茅堪剪吾􅀅卜隐丘四月望觀帝師癹思㧞影堂慶讃立碑丙午佛子来西竺巍然南面尊法筵花散漫香殿玉温黁龍象諸天下鐘螺竟日喧朝觀立随喜如在給􅀌園九月六日􅀫寳集寺来借禪房􅀫悠然空客心殘僧幾人在舌殿一燈深簷鐸能胡語齋居發海音重陽有已近聊復此登臨次韻莫景行夏夜望雨苦􅀬不可忍汗膚鱗甲生雨分何處落月在半天明蟲語迎秋早川光入夜淸得凉忘坐乆河漢欲西傾次莫景行春雨喜晴春事渾牢落離居集百憂照泥星易黒潑火雨難休桑濕多生耳􅅙寒未舉頭江流不可渡風急捲潮頭甲子元日夜大雪􅀄三日立春始晴幾年無此雪南國見應稀平地深三尺飛花大一圍銀河乾徹底白石爛生輝閏色饒梅柳新春曉巳歸南園宴集雨歸有作驟落菰蒲雨遥生菡萏風歸雲龍井黒倒照鳯山紅簾暮舟頻引衣凉酒屢空歌聲未可放花底有驚鴻辛未苦雨秋田猶鉅浸春日復連緜醉使呼堂上飢人死道􅁁鶴神方下地龍伯巳行天真宰如容問吾心血可箋癸酉人日雨中是􅀊十二日立春積雨􅀅謀雪新年未入春半生如過客七日又逢人綵勝天花小香醪玉色醇多憂亦何事適意任天真與勃海孟芾景章守􅀊成居竹宅子長一歳此老無柴􅁄􅁭期一見同詩如孟東野名是米南宫把酒推年長圍爐到夜終賸吟須賸醉相對各衰翁庚辰元日立春綵燕方迎􅀊蒼龍適建辰車書時有道宇宙物皆春紅喜燈花重青看菜甲新屠蘇不辭後巳是白頭人戊子正月連雪苦寒荅叚助敎天祐吉甫二首雪寒渾未解風力更狂吹強飯憐君瘦重裘覺我衰酒香紅面頰燈影黒鬚眉黄鶴山中路求田巳有期三年冗􅀶士自謂四海老詩人吉甫同是桑榆日惟堪麴米春清嬴元壽相吉甫骯􅗣任長身自謂微子誰知我从来􅂴更真四月十四日習儀白塔寺有㫖翥升院判乍換朝衫紫祗憐客鬂華才知無􅀘丗官喜不離家海燕雛方乳戎葵蕊未花㱕来北窓卧塵汗滿烏紗七月六夜對月星㑹黄姑夕天囬白帝秋明河􅀄左界大火漸西流晚景逢多故寒心集百憂山林莽􅋁落何處覓丹丘乙未元日稍稍鐘鼓動紛紛車馬朝張燈照白􅄠把酒送寒宵黄石終㱕漢洪厓及見堯芻言欣見採拭目望新條􅀊除日七十古稀有忻然歳更新換衣癡女喜分粟故人貧軟飽須官釀竒温愛絮巾明當候雲物載筆紀王春􅁀風閉户復閉户黄塵千丈生不雨草無色衝風人倒行游子念郷土腐儒􅁨甲兵狂吹不肯息終夜為心驚長至日壬辰至莭得休暇閉關冝燕居孤懐愁易切逺信語多虚壽酒敎児􅂆祥雲聴史書親知半湖海無地問何如大風時送友南城徹晝風何急避行陵樹旁驚沙撲面黒野日暎人黄科斗旱未出栗㽞寒尚蔵窮途淚易下不是阮生狂七月旦立秋風雨夜寒綀衾不解暖巳索絮衾眠老疾日漸退餘生天所憐蝎行窓􅁓響蛾撲燭花偏喜見沽頭報江南有到船嘿坐時俸支降真香嘿坐􅀚浮丗何殊起㓕雲㹻寒夜嘷母鴉急晩追群應俗神嗟耗經冬足苦皸俸香吾獨喜日可炷爐薫除夕坐玩群兒戯閑供一􅀏懽朱丸那欲􅀑白酒不禁寒官索題春帖鄰分饋􅀊樂歸期知幾日謾檢暦頭看􅀄三日夜玩月至中秋得詩二首化工金鑄巧又換一鈎新逺道傷遊子深閨喜拜人影懸秋半破明遡日西淪正擬排宵看裁詩莫厭頻新月過􅀄弦水輪次第圎空中真見相清極恍如仙舊雨蒼苔地新寒白露天胡床延佇乆不覺屢移前悼太平公晨起洒杯酒北風吹淚痕豈徒歌楚些端欲呌天閽碧化萇弘血春歸杜宇䰟千秋一史筆誰辨逐臣􅁈梅隠為蕃禧􅀚余道士作二首隠者多幽事鉏雲自種梅幾盤山徑術強半雪莓苔拾藥泥丹竈浮香入酒盃時時霞上友清曉踏寒來茅屋西林下逋仙恐是君支笻鶴外見哦句竹􅁁聞老樹春常早空雲雪不分道人無夢乆何處覓梨雲識趣齋為山隂魏仲逺賦夏葢湖濱宅幽然水竹開荘前魚市合山下酒船来把釣依雲樹尋詩歩石苔相羊総成􅃐直待醒心囬􅀉雲門僧􅀂耶溪兼題其松風閣二首聞道耶溪叟髙年出寺遲眉毫長幾許布衲破多時掛錫鶴移樹繙經花滿池相望一江水歳晚赴幽期閣外老松子䔥蕭虚􅄜生定從何処起寕有不平鳴我耳固師耳風声是樹声他時扣禅寂衲破睡天明送泐季潭遊天台并送淵侍者歸天台二首来從石城寺去訪石橋僧錫杖空山路禅龕獨夜灯道知文暢得詩許絞然能到日西岩下應吟瀑布氷觧夏囬天竺㝷真問石橋隣房留偈徧歸路戴經遥瀑壮懸秋雨江明日上潮題詩􅀉相憶何処寛山寮送蒲室殺本中往住長芦寺嘉禾人丈錫風塵傺師行戒畏途故人懷檇李春水到長芦舎利藏金塔袈裟繫珤珠禅房大自在應念室中蒲謁儀則堂上方􅀚听續撰澤氏通鑑平生方外朋今識故郷僧史有春秋筆談空大小乗香厨朝飯麫古殿晝然灯帰路烟蕪外斜陽下道陵北山以雪窓墨闌竹石求題次韻幽蘭出楚畹美竹自湘濵共友三生石俱凾太古春山林空見相氷雪老通神長作禅房供毋令墮丗塵送蒙古僧印空岩还黄龍寺印受戒于天目山二首高僧明庭秀受業自南宗心法捷為印禅機捷􅀂鋒炉香来化鶴瓶水豢降龍弟子經窓外應占舊偃松古刹西江外師居最上方山神出護法天女下焚香乆客霜髭滿歸舟雲樹長秋期到天目容我借禅房北山以着色蘭贈西昌堯如淵永題南國碧雲暮西風芳草多相思故人逺如此别情何諸絶山僧筆蒼茫楚客歌慿將万里意一問洞庭波嘨亭為塩令賈䇿治安題亭在西㒷江上老子掀髯処雲間􅀌草亭不妨舒逸氣直恐動精灵風水劃秋涌魚龍悲夜听幾畨流響歇江冷越山青􅀉題欽惟心山房在京口普照寺三首普照南徐寺蒼蒼祇樹林馱經惟白馬布地盡黄金午􅆊鐘声逺寒灯殿影深由来丗界黒誰與一明心朱方有真子心印悟南宗奏樂飛天女聴經化海龍香凝行道席灯照着衣鍾猶厭依城市開門别種松名山旦夕仰方外􅀫心親業白到􅀄地性空無一塵乞鍾時出寺坐夏不迎人想見惟心叟風凉滿㲲巾輯山村先生詩卷旧多今不存二首昔在垂髫日今嗟薄暮年床􅀌郄氏選詩得謝公傳故國空戎馬荒山冷墓田秖令後死者忍淚讀遺篇卷可留天地詩嘗泣􅀑神鶴仙歸化鶴􅀍髪下騏驎素望髙前輩青衫老此身栖霞石表在終古不成塵金水橋上聞􅁐池荷香内􅁐立馬金河上荷香出苑池石橋秋雨後瑶海夕陽時深樹栖鴉早微波浴象遲煩衿一􅀏爽正喜好風吹次韻題大雷山桃源汪氏桃隠鄞縣幽甚􅀯雷路嘗聞故老傳墟通賣魚碶潮入種蚶田櫺子渾成樹桃花不計年山中多佛寺香火肅芉芊􅀯北二十里两山中過雲采芝隨鹿去拾果与猿分酒熟青田核羮香碧澗芹非君播詩句那得丗人聞鑑堂上人招予適慧山舟行不成往固􅀉竟􅀒山游約長懷苐二泉毀茶休著論載酒謾回船㑹摘春林雨来㝷午竈烟從師坐聮句秪恐廢安禪溪居山水山景二首想像溪居好時来放釣船滄洲茅屋路春水白鴎天林壑無多地烟霞自一川底須論咫尺對此巳茫然何處野人村微茫澗谷分林多太古樹山有四時雲烏跡還成道猿啼或作群秋風茅屋破誰賦隠思君清溪濯足圖黄塵滿双脚宜賦故山㱕觧屦就清泚舉頭看翠微林猿下窺􅂰石蘚欲粘衣更覓魚竿伴閑来就釣磯􅀚潮海口潮􅀄上江流壅不行大風生氣势烈日奪光晶鷁首来何駛鴟夷怒未平呉児誇壮􅀚車馬暮填城水墨逹麽像班惟志筆佛法無多子西山雪拄天應㝷䓗嶺去方觧少林禅鞮屦露双脚罽衣披半肩虚空本無住湏借影中􅀓数日北風興懷過海諸友数日好風色行人應到家秋花香獨耐寒鴈字多斜薄飲無長酒輕行有小車吾心何尒汝聊復度年華啖筍今旦食指動新苞来上林此児森似玉饋我重如金晚火炊鮮滑春雷發蛰深山園未能往少快老饕心蛻庵詩卷之一蛻菴詩卷之二衡山釋大杼北山編集}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-3a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-3b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-4a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-4b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-5a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-5b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-6a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-6b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-7a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-7b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-8a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-8b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-9a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-9b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-10a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-10b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-11a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-11b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-12a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-12b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-13a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-13b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-14a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-14b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-15a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-15b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-16a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-16b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-17a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-17b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-18a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-18b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-19a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-19b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-20a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-20b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-21a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-21b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-22a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-22b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-23a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-23b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-24a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-24b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-25a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-25b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-26a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-26b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-27a}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_001-27b}
+  - {type: page-break, offset: 916, content: '', id: KR4d0530_SBCK_002-1a}
+  - {type: 'kr:newline', offset: 917, content: '
+
+      ', id: KR4d0530_krp_000-bkkkrnewl70}
+  back: []
+hash: sha256:e1612cc1177e18bdedfb76c5c56946e66cbf847a4d13bf5234339673fd2e1ef6

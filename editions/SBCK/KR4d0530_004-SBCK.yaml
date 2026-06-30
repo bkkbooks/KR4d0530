@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0530/SBCK/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 龕
+  hash: sha256:31a60027f132f282080d138ba2ca4faae90da7d4016560eb054c535253586766
+metadata:
+  title: 蛻菴集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-25 00:13:18.766735'
+  source:
+    repository: kanripo
+    path: KR4d0530/KR4d0530_004.txt
+hash: sha256:4f55b5cce409cf173bb2d71bd038c3b1c05203540d38f746c73349e402654366
